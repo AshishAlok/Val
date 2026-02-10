@@ -7,6 +7,7 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()
-  ]
-    ,
+  ],
+  base: "/REPO_NAME/",
 })
+
