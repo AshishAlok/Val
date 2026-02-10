@@ -8,6 +8,6 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
-  base: "/REPO_NAME/",
+  base: "/Val/",
 })
 
